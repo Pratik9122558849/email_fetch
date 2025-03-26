@@ -26,7 +26,7 @@ The exported Excel file (`email.xlsx`) will contain the following information:
 - Body
 - Attachments
 
-![Sample Excel Output](screenshots/email_export_sample.png)
+![Sample Excel Output](screenshot.jpeg)
 
 ## Requirements
 
