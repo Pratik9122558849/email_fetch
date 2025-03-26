@@ -1,0 +1,5 @@
+imapclient
+pandas
+openpyxl
+pywin32
+tqdm
